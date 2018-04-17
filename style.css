@@ -3,12 +3,10 @@ body {
     padding: 0;
     margin: 0;
 }
-
-a {
-    text-decoration: none;
-    color: #21b4f8;
+.bd{
+    margin: 0 auto;
+    text-align: center;
 }
-
 h1 {
     text-align: center;
 }
@@ -23,7 +21,7 @@ p{
 }
 
 h3{
-    background-color: #1deefd75;
+    background-color: #b8e7ff;
     color: white;
     line-height: 30px;
     padding-left:10px;
@@ -31,12 +29,13 @@ h3{
 
 .tp {
     text-align: center;
+    margin: 0 auto;
 }
-.bd{ 
-    text-align: center;}
+
+
 .container {
     width: 800px;
     margin: 0 auto;
     padding: 10px 20px;
-    margin-top: 0;
     background-image: url("55.jpg")
+}
